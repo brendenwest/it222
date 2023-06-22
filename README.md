@@ -24,8 +24,8 @@ Students will perform extensive hands-on development throughout this course and 
 - A working internet connection
 - A syntax-highlighting text editor
 - A free https://datacamp.com/ account
-
-**Note** - https://replit.com/ provides free browser-based development environments.
+- A free https://supabase.com/ account
+- Tableau Desktop (free for students at https://www.tableau.com/academic/students#form)
 
 This course will use a range of online materials as needed, including textbooks available free online through [O'Reilly for Higher Education](https://www.oreilly.com/library/view/temporary-access/?orpq)
 
