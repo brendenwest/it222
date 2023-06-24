@@ -49,6 +49,14 @@ Each week, we'll cover a new topic, building on the previous week's work. We wil
 - Performing data analysis with SQL
 - Business Intelligence reporting
 
+### Grading 
+
+Grades will be based on assignments (85%) and quizzes (15%). There is no final exam.
+
+Weekly assignments will be posted on Canvas and are designed to exercise the skill and concepts covered that week. Assignments are generally due by the following Monday and late submissions may be subject to a 10% penalty. Assignments turned in more than 2 weeks late will not be accepted nor graded.
+
+Your submissions should be your own work: plagiarism, including use of AI tools, may incur a grade penalty.
+
 ### Reference
 
 - [SQL for Data Analysis](https://learning-oreilly-com.ezproxy.spl.org/library/view/sql-for-data/9781492088776/)

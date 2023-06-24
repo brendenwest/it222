@@ -48,7 +48,7 @@ Relational databases are popular for business critical applications because they
 ### Schema-less (aka NoSQL)
 Schema-less databases are used for non-relational data that doesn't conform to a schema.
 
-These include `document` stores, where each record is a semi-structured document (usually JSON or XML). [MongoDB](https://www.mongodb.com/) is a widely used document db.
+These include `document` stores, where each record is a semi-structured document (usually JSON or XML). [MongoDB](https://www.mongodb.com/) and [Firebase](https://firebase.google.com/products/realtime-database) are widely used document db's.
 
 Schema-less DB's are useful where data structure is not well defined or might change frequently. 
 
