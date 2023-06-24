@@ -5,6 +5,7 @@
 
 ### Reference
 - https://www.w3schools.com/sql/
+- https://www.freecodecamp.org/news/sql-and-databases-full-course/
 
 ### Learning Outcomes
 - Data storage overview
