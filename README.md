@@ -59,10 +59,10 @@ Your submissions should be your own work: plagiarism, including use of AI tools,
 
 ### Reference
 
-- [SQL for Data Analysis](https://learning-oreilly-com.ezproxy.spl.org/library/view/sql-for-data/9781492088776/)
-- [SQL for Data Analytics](https://learning-oreilly-com.ezproxy.spl.org/library/view/sql-for-data/9781801812870/)
-- [Practical SQL](https://learning-oreilly-com.ezproxy.spl.org/library/view/practical-sql-2nd/9781098129866/)
-- [SQL Pocket Guide](https://learning-oreilly-com.ezproxy.spl.org/library/view/sql-pocket-guide/9781492090397/)
+- [SQL for Data Analysis](https://learning.oreilly.com/library/view/sql-for-data/9781492088776/)
+- [SQL for Data Analytics](https://learning.oreilly.com/library/view/sql-for-data/9781801812870/)
+- [Practical SQL](https://learning.oreilly.com/library/view/practical-sql-2nd/9781098129866/)
+- [SQL Pocket Guide, 4th Ed.](https://learning.oreilly.com/library/view/sql-pocket-guide/9781492090397/)
 
 ### ADA Accessibility
 
