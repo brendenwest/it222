@@ -34,3 +34,13 @@ Many commercial and open-source tools exist for data reporting and it's not feas
 - [Microsoft Power BI](https://powerbi.microsoft.com/en-us/what-is-power-bi/)
 - [Tableau](https://www.tableau.com/why-tableau/what-is-tableau)
 
+### Working with Tableau
+
+- A **sheet** is a single data visualization, such as a bar chart or a line graph. Since sheet is also a generic term for any tab, we’ll often refer to a sheet as a view because it is a single view of the data.
+- A **dashboard** is a presentation of any number of related views and other elements (such as text or images) arranged together as a cohesive whole to communicate a message to an audience. Dashboards are often designed to be interactive.
+- A **story** is a collection of dashboards or single views that have been arranged to communicate a narrative from the data. Stories may also be interactive.
+
+- **Measures** are values that are aggregated. For example, they are summed, averaged, or counted, or the result is the minimum or maximum value.
+- **Dimensions** are values that determine the level of detail at which measures are aggregated. You can think of them as slicing the measures or creating groups into which the measures fit. The combination of dimensions used in the view defines the view’s basic level of detail.
+
+**Relationaships** define SQL joins on related tables
