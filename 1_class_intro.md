@@ -2,6 +2,7 @@
 
 ### Reading
 - https://shopify.engineering/five-common-data-stores-usage
+- [SQL for Data Analytics](https://learning.oreilly.com/library/view/sql-for-data/9781801812870/), Ch 2
 
 ### Reference
 - https://www.w3schools.com/sql/
