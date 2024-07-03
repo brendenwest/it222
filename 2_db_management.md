@@ -18,6 +18,23 @@
 - Importing data into PostgreSQL
 - Tools for managing relational DBs
 
+### Database Normalization
+
+Normalization is a technique for structuring database tables to 
+- reduce data duplication
+- ensure data consistency
+- improve data organization
+
+Normalization takes
+
+- **1st Normal Form (1NF)** - Table values must be atomic (can't be reduced to simpler values)
+- **2nd Normal Form (2NF)**
+  - 1NF is satisfied
+  - All non-key columns depend on the table's primary key
+  - often results in new tables but reduces data duplication
+- **3rd Normal Form (3NF)** 
+  - 2NF is satisfied
+  - No transitive dependencies
 
 ### Relational DB Tools
 
