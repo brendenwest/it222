@@ -2,8 +2,8 @@
 
 ### Reading
 - https://www.freecodecamp.org/news/learn-supabase-open-source-firebase-alternative/
-- https://www.splunk.com/en_us/blog/learn/data-normalization.html
-  https://supabase.com/docs/guides/database/tables
+- https://www.splunk.com/en_us/blog/learn/data-normalization.html 
+- https://supabase.com/docs/guides/database/tables
 - [SQL for Data Analytics, Ch. 2](https://learning.oreilly.com/library/view/sql-for-data/9781801812870/B17466_02_ePub.xhtml)
 
 
@@ -14,6 +14,8 @@
 
 - Defining a relational DB 
 - Creating a PostgreSQL database in Supabase
+- Database normalization
+- Access control in PostgreSQL
 - Importing data into PostgreSQL
 - Tools for managing relational DBs
 
