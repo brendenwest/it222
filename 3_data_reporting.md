@@ -15,13 +15,13 @@
 
 Often know as `business intelligence (BI)` reporting, this is the process of generating reports or analyses, usually to assist business decision-making.
 
-Reports can be tabular, summarizing the underlying data, or graphical. The process of generating graphical reports is called `data visualization`.
+BI reporting is an essential business function for most companies.
 
-Reporting is largely independent of how data is stored (e.g. text files, spreadsheets, relational DB's, etc.)
+Reports can be `tabular`, summarizing the underlying data, or `graphical`. The process of generating graphical reports is called `data visualization`.
 
-BI reporting is an essential business function for more companies.
+Historically BI reporting depended on relational databases and often complex SQL queries, but modern BI tools can work with a variety of data sources and data reporting is largely independent of how data is stored (e.g. text files, spreadsheets, relational DB's, etc.).
 
-Historically much BI reporting depended on relational databases and often complex SQL queries. 
+Reporting can involve `dashboards` that update automatically as new data arrives.
 
 Recently, software tools have emerged that allow employees with limited technical skill to perform sophisticated data analysis.
 
@@ -36,6 +36,15 @@ Many commercial and open-source tools exist for data reporting and it's not feas
 
 ### Working with Tableau
 
+Tableau is a platform allowing complex data reporting & visualization without advanced data engineering skills. Tableau's drag-and-drop interface allows users to:
+
+- Connect to various data sources
+- Join related data 
+- Compute measures based on underlying data
+- Generate complex visualizations & reports
+
+#### Terminology
+
 - A **sheet** is a single data visualization, such as a bar chart or a line graph. Since sheet is also a generic term for any tab, we’ll often refer to a sheet as a view because it is a single view of the data.
 - A **dashboard** is a presentation of any number of related views and other elements (such as text or images) arranged together as a cohesive whole to communicate a message to an audience. Dashboards are often designed to be interactive.
 - A **story** is a collection of dashboards or single views that have been arranged to communicate a narrative from the data. Stories may also be interactive.
@@ -43,4 +52,4 @@ Many commercial and open-source tools exist for data reporting and it's not feas
 - **Measures** are values that are aggregated. For example, they are summed, averaged, or counted, or the result is the minimum or maximum value.
 - **Dimensions** are values that determine the level of detail at which measures are aggregated. You can think of them as slicing the measures or creating groups into which the measures fit. The combination of dimensions used in the view defines the view’s basic level of detail.
 
-**Relationaships** define SQL joins on related tables
+**Relationships** define SQL joins on related tables
