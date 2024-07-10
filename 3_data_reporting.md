@@ -43,6 +43,12 @@ Tableau is a platform allowing complex data reporting & visualization without ad
 - Compute measures based on underlying data
 - Generate complex visualizations & reports
 
+Tableau is based on `VizQL` (Visual Query Language) and automatically translates user actions into a query language (TQL or Tableau Query Language) to be run by the source data engine.
+
+Tableau leverages the optimization and power of the underlying data source to visualize massive datasets with relatively little local processing of the data.
+
+Also Tableau will cache results and only query the data source when you make changes requiring a new query or a view refresh. 
+
 #### Terminology
 
 - A **sheet** is a single data visualization, such as a bar chart or a line graph. Since sheet is also a generic term for any tab, we’ll often refer to a sheet as a view because it is a single view of the data.
@@ -51,5 +57,5 @@ Tableau is a platform allowing complex data reporting & visualization without ad
 
 - **Measures** are values that are aggregated. For example, they are summed, averaged, or counted, or the result is the minimum or maximum value.
 - **Dimensions** are values that determine the level of detail at which measures are aggregated. You can think of them as slicing the measures or creating groups into which the measures fit. The combination of dimensions used in the view defines the view’s basic level of detail.
+- **Relationships** define SQL joins on related tables
 
-**Relationships** define SQL joins on related tables
