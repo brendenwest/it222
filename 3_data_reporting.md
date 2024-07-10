@@ -1,7 +1,7 @@
 # Week 3 - Data Reporting & Analysis
 
 ### Reading
-- [Learning Tableau](https://learning.oreilly.com/library/view/learning-tableau-2022/9781801072328/) Ch. 1 & 2
+- [Learning Tableau 2022 - Fifth Edition](https://learning.oreilly.com/library/view/learning-tableau-2022/9781801072328/) Ch. 1 & 2
 - https://learn.microsoft.com/en-us/training/modules/get-data/
 
 ### Watch
